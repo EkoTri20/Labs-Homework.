@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class JPA03 {
     public static void main(String[] args) {
         int limit = 1000;
